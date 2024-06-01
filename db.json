@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "Mr. Adwait",
+      "address": "TE IT Inhouse",
+      "email": "abc@pict.edu",
+      "services": "abc.google.com",
+      "mobile": "13-04-24, 3pm"
+    }
+  ],
+  "signup": [
+    {
+      "id": "3e02",
+      "name": "Atharva",
+      "email": "Atharva@yahoo.com",
+      "mobile": 8530183975,
+      "password": "Atharva@123"
+    },
+    {
+      "id": "cba3",
+      "name": "Adwait Pankaj Desai",
+      "email": "adwait393@gmail.com",
+      "mobile": 8530183975,
+      "password": "234567"
+    },
+    {
+      "id": "05fc",
+      "name": "Adwait",
+      "email": "adwait393@gmail.com",
+      "mobile": 8530183975,
+      "password": "adwait@393"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
